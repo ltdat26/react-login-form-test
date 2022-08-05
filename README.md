@@ -7,3 +7,5 @@ test with yarn
   <li>yarn install</li>
   <li>yarn start</li>
 </ol>
+
+Tutorial: https://www.webdevdrops.com/en/react-forms-and-validations-react-hook-form/
